@@ -1,0 +1,25 @@
+#include <iostream>
+#include <string>
+#include <regex>
+ 
+int main()
+{
+    std::string fname="123";
+    char a[100];
+    a[0]='1';
+    a[1]='2';
+    a[2]='\\';
+    a[3]='w';
+    a[4]=0;
+    //a[5
+    std::regex pieces_regex("\\w*23");
+    std::smatch pieces_match; 
+        if (std::regex_match(fname, pieces_match, pieces_regex)) {
+            std::cout << fname << '\n';
+            for (size_t i = 0; i < pieces_match.size(); ++i) {
+                std::ssub_match sub_match = pieces_match[i];
+                std::string piece = sub_match.str();
+                std::cout << "  submatch " << i << ": " << piece << '\n';
+            }   
+        }      
+}

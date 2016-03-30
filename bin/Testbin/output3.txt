@@ -1,0 +1,19 @@
+customer.name     book.title     orders.quantity
+BOOKER GILLEY | Another Century of War? | 9
+JAE ORNDORFF | A Voice Through a Cloud | 9
+SELINA TAULBEE | Boys and Girls Together | 9
+RODERICK NEVES | Skindeep (Pan Horizons) | 9
+KARY GUERTIN | Skindeep (Pan Horizons) | 10
+ASHLEY MARTINO | Verdun (Lost Treasures) | 10
+PEGGY MATCHETT | Children of the Thunder | 10
+YVONE VANWAGONER | Meine Juden--eure Juden | 10
+DANILO MAUDLIN | You Can Draw a Kangaroo | 10
+VIRGILIO GLEASON | Meine Juden--eure Juden | 10
+REITA CARRON | Boys and Girls Together | 9
+LEONA WAMPLER | The Blanket of the Dark | 10
+OK GRABLE | Meine Juden--eure Juden | 10
+BRITTANEY BLAIN | Boys and Girls Together | 9
+KYLE CHIARAMONTE | Snowboarding to Nirvana | 10
+SHIRLEEN CLAPPER | Snowboarding to Nirvana | 10
+YOUNG REID | Another Century of War? | 9
+RODOLFO HEROUX | Snowboarding to Nirvana | 9
